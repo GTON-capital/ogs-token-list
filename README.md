@@ -1,1 +1,1 @@
-# ogs-token-list
+# ogx-token-list
